@@ -250,7 +250,7 @@ module.
 Commenting
 ----------
 Because `wit-cms` stores its content in flat files instead of a database, it
-does not and can not natively support a reader commeting system. If you'd like
+does not and can not natively support a reader commenting system. If you'd like
 to enable commenting on your blog, consider using [Disqus][] or [`isso`][isso].
 
 
